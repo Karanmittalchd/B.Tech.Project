@@ -7,4 +7,4 @@ Optimizing Food Supply Chain of Uttarakhand, partnered with the United Nations W
 - Generated map plot from coordinates via gmplot, analysed node-tagging clusters and cost-distance correlation
 - Developed an interactive GUI based application using Tkinter library
 
-For reasons of confidentiality, code has not been attached. I have attached the mid term and final term reports of the project.
+For reasons of confidentiality, code has not been attached. I have attached the mid term and end term reports of the project.
